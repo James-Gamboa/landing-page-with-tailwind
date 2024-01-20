@@ -4,7 +4,7 @@ function NotFound() {
   return (
     <div className="main-container flex flex-col items-center justify-center h-screen">
       <Link href="/">
-        <button className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+        <button className="bg-bright-red text-white px-4 py-2 rounded hover:bg-orange-400 focus:outline-none focus:shadow-outline-blue">
           Back to Home
         </button>
       </Link>
